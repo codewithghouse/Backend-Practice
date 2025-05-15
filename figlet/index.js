@@ -7,3 +7,5 @@ figlet("Code With Ghouse ", function (err, data) {
   }
   console.log(data);
 });
+
+module.exports = figlet;
