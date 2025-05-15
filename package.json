@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "started with node js ,,\r learning about what is node js and some files about node js ...",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithghouse/Backend-Practice.git"
+  },
+  "author": "ghouse pasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithghouse/Backend-Practice/issues"
+  },
+  "homepage": "https://github.com/codewithghouse/Backend-Practice#readme"
+}
