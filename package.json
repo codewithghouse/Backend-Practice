@@ -16,5 +16,8 @@
     "url": "https://github.com/codewithghouse/Backend-Practice/issues"
   },
   "homepage": "https://github.com/codewithghouse/Backend-Practice#readme",
-  "type":"module"
+  "type": "module",
+  "dependencies": {
+    "random-word-slugs": "^0.1.7"
+  }
 }
