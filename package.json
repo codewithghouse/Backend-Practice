@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/codewithghouse/Backend-Practice/issues"
   },
-  "homepage": "https://github.com/codewithghouse/Backend-Practice#readme"
+  "homepage": "https://github.com/codewithghouse/Backend-Practice#readme",
+  "type":"module"
 }
