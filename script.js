@@ -16,5 +16,7 @@
  
 const slug = generateSlug();
 console.log(slug);
+// const fig = figlet();
+// console.log(fig);
 
 
